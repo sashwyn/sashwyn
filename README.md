@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sashwyn
 - 👀 I’m interested in Information and Education Technologies
 - 🌱 I’m currently learning quantum information science and kotlin. 
-- 💞️ I’m looking to collaborate on android app development
+- 💞️ I’m looking to collaborate on an android app development
 - 📫 Reach me on LinkedIn at https://www.linkedin.com/in/ashwyn-srinivasan-a597a285/ 
 
 <!---
